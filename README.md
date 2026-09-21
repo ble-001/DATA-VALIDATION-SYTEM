@@ -2,17 +2,15 @@
 AN application that captures personal information and validates every field in real time before accepting the data.
 
  Features
-- Modern, non-default Swing interface with a professional colour scheme
 - Real-time validation with clear error messages next to each field
 - Support for the following fields:
-  - Name
-  - Surname
+  - Name and surname
   - Student / ID Number
   - Age
   - Gender (radio buttons)
   - Contact Number
   - Email Address
-- Save, Clear and Exit functionality
+- validate, cancel all,home,help,about and Exit functionality
 - Helpful, non-technical error messages for the user
 
  Validation Rules
